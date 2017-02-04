@@ -1,0 +1,26 @@
+{
+  "name": "comp308-w2017-lesson3b-master",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "matthew yaworski"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "aha"
+  ],
+  "homepage": "https://github.com/Vyred/comp308w3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
